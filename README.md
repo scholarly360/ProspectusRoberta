@@ -5,7 +5,9 @@ An Offer Document refers to the prospectus containing information about the publ
 Natural language processing, with the advent of large-scale language models, has been implemented in a variety of fields, including legal and biomedical. We intend to apply the same methodology to the IPO.
 
 Our contribution is enumerated below:
+
 • We built a large-scale language model for India's IPO. Our solution based on Roberta will help with a wide range of use cases, such as answering questions, recognizing named entities, and classifying sentences and paragraphs.
+
 • We are also presenting sentence transformers based on our large-scale language model. There are a variety of use cases, including semantic similarity and zero-shot learning.
 
 Pls see data folder for all data.
